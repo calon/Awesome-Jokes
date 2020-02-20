@@ -95,3 +95,12 @@ President Merkin Muffley: Gentlemen, you can't fight in here! This is the War Ro
 - 看不见的手
 
 一群武校的学生要毕业了，老师告诫他们：“出去以后，千万不能和经济学家过招，因为他们都有一只看不见的手。”
+
+- Double Negative
+
+A linguistics professor was lecturing to his class one day. "In English," he said, "a double negative forms a positive. In some languages though, such as Russian, a double negative is still a negative.
+
+However," he pointed out, "there is no language wherein a double positive can form a negative."
+
+A voice from the back of the room piped up, "Yeah, right."
+
